@@ -1,8 +1,3 @@
-Got it — here’s your content **cleanly formatted as a polished `README.md` for GitHub**, with proper headings, bullets, code blocks, and diagrams.
-You can paste this **as-is** into `README.md`.
-
----
-
 # 📚 LearnTrack – Student & Course Management System
 
 **(Core Java | Console Application)**
